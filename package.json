@@ -1,0 +1,30 @@
+{
+    "name": "@rifandavinci/yt-scraper",
+    "version": "1.0.5",
+    "description": "YouTube scraper module for searching and downloading videos",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "youtube",
+      "scraper",
+      "downloader",
+      "search",
+      "scrape"
+    ],
+    "author": "rifandavinci",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^1.6.7",
+      "node-fetch": "^2.7.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/rifandavinci/yt-scraper.git"
+    },
+    "bugs": {
+      "url": "https://github.com/rifandavinci/yt-scraper/issues"
+    },
+    "homepage": "https://github.com/rifandavinci/yt-scraper#readme"
+  }
