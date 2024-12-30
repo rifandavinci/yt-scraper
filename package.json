@@ -1,6 +1,6 @@
 {
     "name": "@rifandavinci/yt-scraper",
-    "version": "1.0.5",
+    "version": "1.1.5",
     "description": "YouTube scraper module for searching and downloading videos",
     "main": "index.js",
     "scripts": {

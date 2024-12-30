@@ -1,8 +1,7 @@
 // ----------------------------------------------. 
-// Code Original by Fann Davinci
+// Halo, dari Fann Davinci
 // https://github.com/rifandavinci
 // https://www.npmjs.com/~rifandavinci
-// Request Scrape lain? Contact fann.cloud
 // ----------------------------------------------. 
 
 
